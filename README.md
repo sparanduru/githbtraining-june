@@ -29,3 +29,8 @@ This is also __italic__ text.
    - Nested
 - Second
 - Third
+
+  First|Second
+-|-
+1|2
+3|4
