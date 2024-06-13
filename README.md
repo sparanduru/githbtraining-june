@@ -9,3 +9,13 @@ This is **italic** text.
 This is also __italic__ text.
 
 \_This is all \*\*plain\*\* text\_.
+
+
+###### This is H6 text
+
+##### This is H5 text
+
+
+#### This is H4 text
+
+# This is H1 text
