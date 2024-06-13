@@ -1,2 +1,1 @@
-# githbtraining-june
-Github training
+This is *italic* text.
