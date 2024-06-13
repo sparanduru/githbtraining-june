@@ -31,7 +31,7 @@ This is also __italic__ text.
 - Third
 <br>
 
-First|Second
--|-
-1|2
-3|4
+First|Second|Third
+-|-|-
+1|2|3
+3|4|5
