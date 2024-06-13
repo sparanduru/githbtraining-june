@@ -40,3 +40,10 @@ First|Second|Third
 
 
 > This is quoted text for `terraform init`
+
+
+```markdown
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
